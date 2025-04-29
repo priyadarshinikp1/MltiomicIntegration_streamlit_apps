@@ -13,7 +13,7 @@ if app == "MO_UMAP":
     st.write("Launching MO_UMAP app...")
     # Use UTF-8 encoding to open the file
     with open("app1_MO_umap/Mo_umap.py", "r", encoding="utf-8") as file:
-      exec(file.read())
+     exec(file.read())
 
 
 elif app == "Multiomics Integrator":
