@@ -1,4 +1,3 @@
-# Multi-Omics Integration App
 import os
 import tempfile
 import requests
@@ -21,7 +20,6 @@ from matplotlib.colors import Normalize
 # -----------------------------
 # App Configuration
 # -----------------------------
-st.set_page_config(page_title="Multi-Omics App", layout="wide")
 st.image("https://raw.githubusercontent.com/priyadarshinikp1/Multiomics-Integrator-app/main/logo.png", width=200)
 st.title("🧬 Multi-Omics Integration Vizzhy App")
 
