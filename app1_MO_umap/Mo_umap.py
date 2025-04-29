@@ -16,7 +16,7 @@ import umap
 # -----------------------------
 # App Configuration
 # -----------------------------
-st.set_page_config(page_title="MO_UMAP App", layout="wide")
+
 st.image("https://raw.githubusercontent.com/priyadarshinikp1/Multiomics-Integrator-app/main/logo.png", width=200)
 st.title("Multi-Omics Statistical Integration with UMAP Vizzhy App")
 
