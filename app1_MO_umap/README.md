@@ -14,7 +14,7 @@ This application integrates multi-omics data (Genomics, Transcriptomics, and Pro
 - **Cluster Enrichment Summary:** Displays a table summarizing the top enrichment terms across clusters.
 - **Network Interaction:** Visualizes interactions between genes, proteins, and enrichment terms in an interactive network.
 
-## Usage
+## Usage (link: https://umapmointegration.streamlit.app/)
 
 1. **Upload Your Data:**
    - Upload your **Genomics CSV** (with columns: `Gene`, `CADD`).
