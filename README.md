@@ -18,6 +18,11 @@ No installation is required. The app is ready to use directly from the browser.
 A modern web browser (e.g., Chrome, Firefox, Edge).
 
 **How to Use the App**
-1. Upload Data
-Upload your multi-omics datasets into the app. Supported formats include:
-CSV
+
+Upload Data
+- Upload your Genomics CSV (with columns: Gene, CADD).
+- Upload your Transcriptomics CSV (with columns: Gene, logFC, p_value).
+- Upload your Proteomics CSV (with columns: Gene, Protein, Intensity).
+
+**Note**
+"Details for each app are provided separately in individual README files located within their respective app directories."
