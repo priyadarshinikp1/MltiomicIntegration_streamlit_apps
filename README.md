@@ -24,5 +24,10 @@ Upload Data
 - Upload your Transcriptomics CSV (with columns: Gene, logFC, p_value).
 - Upload your Proteomics CSV (with columns: Gene, Protein, Intensity).
 
+**Provided Input:**
+- cvd_genomics- WGS variant annotated csv- PRJNA264546
+- cvd_transcriptomics- Bulk rna seq differential expression results- PRJNA394884
+- cvd_proteomics- Protein intensity- 
+
 **Note**
 "Details for each app are provided separately in individual README files located within their respective app directories."
