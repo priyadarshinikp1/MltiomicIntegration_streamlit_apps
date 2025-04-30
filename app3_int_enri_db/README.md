@@ -22,7 +22,7 @@ The app allows users to upload datasets, perform enrichment analysis, visualize 
 - **GO_Biological_Process_2021** (Biological Processes)
 - **KEA_2015** (Enzymes)
 
-## How It Works
+## How It Works  link: https://8dbmointegrator.streamlit.app/
 1. **Upload Omics Data**: Upload your **genomic**, **transcriptomic**, and **proteomic** data in CSV format via the sidebar.
 2. **Over-Representation Analysis (ORA)**: The app performs ORA for common genes across all three omic layers against the selected databases.
 3. **Explore Results**: The app generates a list of enriched terms and visualizes these terms and their connections through a network.
